@@ -1,0 +1,42 @@
+# Alpixn HR & Payroll Software — Backend
+
+This is the backend service for **Alpixn Technologies’ AI-powered HR and Payroll Software**, built to streamline human resource management, automate payroll operations, and enable intelligent decision-making with AI modules.
+
+---
+
+## Project Goals
+
+### Core Functionalities
+- Employee data management
+- Attendance tracking with geo-fencing & face recognition
+- Leave and expense management
+- Payroll processing with dynamic forecasting
+- Payslip generation & blockchain verification
+- Performance reviews & 360° feedback system
+
+### AI-Powered Features
+- Mood Index (Emotional wellbeing via sentiment analysis)
+- Retention Risk Prediction (attrition risk scoring)
+- Career Path Recommendations (upskilling & promotion planning)
+- Salary Benchmarking & Tax Optimization Assistant
+
+### Access Control
+- Role-Based Access: Admin > HR > Manager > Employee
+- Login audit logging and notification system
+
+---
+
+## Tech Stack
+
+| Layer | Technology |
+|-------|------------|
+| Backend Framework | FastAPI (Python) |
+| ORM & DB | SQLAlchemy + PostgreSQL |
+| Data Validation | Pydantic |
+| Migrations | Alembic |
+| AI Models | Python (scikit-learn, TensorFlow, OpenAI API) |
+| Authentication | OAuth2 + JWT |
+| DevOps | Docker + GitHub Actions (planned) |
+
+---
+
