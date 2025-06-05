@@ -1,0 +1,650 @@
+[{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf2c"
+  },
+  "payroll_id": 1,
+  "employee_id": 1,
+  "month": "2024-05-01",
+  "base_salary": 76832,
+  "bonus": 8315,
+  "tax_deducted": 7683,
+  "net_payable": 77464,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf2d"
+  },
+  "payroll_id": 2,
+  "employee_id": 2,
+  "month": "2024-05-01",
+  "base_salary": 70153,
+  "bonus": 4881,
+  "tax_deducted": 7015,
+  "net_payable": 68019,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf2e"
+  },
+  "payroll_id": 3,
+  "employee_id": 3,
+  "month": "2024-05-01",
+  "base_salary": 66751,
+  "bonus": 9528,
+  "tax_deducted": 6675,
+  "net_payable": 69604,
+  "status": "Unpaid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf2f"
+  },
+  "payroll_id": 4,
+  "employee_id": 4,
+  "month": "2024-05-01",
+  "base_salary": 53094,
+  "bonus": 5442,
+  "tax_deducted": 5309,
+  "net_payable": 53227,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf30"
+  },
+  "payroll_id": 5,
+  "employee_id": 5,
+  "month": "2024-05-01",
+  "base_salary": 47707,
+  "bonus": 3154,
+  "tax_deducted": 4770,
+  "net_payable": 46091,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf31"
+  },
+  "payroll_id": 6,
+  "employee_id": 6,
+  "month": "2024-05-01",
+  "base_salary": 45262,
+  "bonus": 5651,
+  "tax_deducted": 4526,
+  "net_payable": 46387,
+  "status": "Unpaid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf32"
+  },
+  "payroll_id": 7,
+  "employee_id": 7,
+  "month": "2024-05-01",
+  "base_salary": 77113,
+  "bonus": 2022,
+  "tax_deducted": 7711,
+  "net_payable": 71424,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf33"
+  },
+  "payroll_id": 8,
+  "employee_id": 8,
+  "month": "2024-05-01",
+  "base_salary": 34811,
+  "bonus": 4433,
+  "tax_deducted": 3481,
+  "net_payable": 35763,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf34"
+  },
+  "payroll_id": 9,
+  "employee_id": 9,
+  "month": "2024-05-01",
+  "base_salary": 55775,
+  "bonus": 6718,
+  "tax_deducted": 5577,
+  "net_payable": 56916,
+  "status": "Unpaid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf35"
+  },
+  "payroll_id": 10,
+  "employee_id": 10,
+  "month": "2024-05-01",
+  "base_salary": 85253,
+  "bonus": 6091,
+  "tax_deducted": 8525,
+  "net_payable": 82819,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf36"
+  },
+  "payroll_id": 11,
+  "employee_id": 11,
+  "month": "2024-05-01",
+  "base_salary": 88418,
+  "bonus": 7203,
+  "tax_deducted": 8841,
+  "net_payable": 86780,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf37"
+  },
+  "payroll_id": 12,
+  "employee_id": 12,
+  "month": "2024-05-01",
+  "base_salary": 31149,
+  "bonus": 3525,
+  "tax_deducted": 3114,
+  "net_payable": 31560,
+  "status": "Unpaid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf38"
+  },
+  "payroll_id": 13,
+  "employee_id": 13,
+  "month": "2024-05-01",
+  "base_salary": 61721,
+  "bonus": 8561,
+  "tax_deducted": 6172,
+  "net_payable": 64110,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf39"
+  },
+  "payroll_id": 14,
+  "employee_id": 14,
+  "month": "2024-05-01",
+  "base_salary": 56033,
+  "bonus": 5029,
+  "tax_deducted": 5603,
+  "net_payable": 55459,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf3a"
+  },
+  "payroll_id": 15,
+  "employee_id": 15,
+  "month": "2024-05-01",
+  "base_salary": 31384,
+  "bonus": 3696,
+  "tax_deducted": 3138,
+  "net_payable": 31942,
+  "status": "Unpaid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf3b"
+  },
+  "payroll_id": 16,
+  "employee_id": 16,
+  "month": "2024-05-01",
+  "base_salary": 34792,
+  "bonus": 4795,
+  "tax_deducted": 3479,
+  "net_payable": 36108,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf3c"
+  },
+  "payroll_id": 17,
+  "employee_id": 17,
+  "month": "2024-05-01",
+  "base_salary": 69704,
+  "bonus": 9937,
+  "tax_deducted": 6970,
+  "net_payable": 72671,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf3d"
+  },
+  "payroll_id": 18,
+  "employee_id": 18,
+  "month": "2024-05-01",
+  "base_salary": 34126,
+  "bonus": 7845,
+  "tax_deducted": 3412,
+  "net_payable": 38559,
+  "status": "Unpaid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf3e"
+  },
+  "payroll_id": 19,
+  "employee_id": 19,
+  "month": "2024-05-01",
+  "base_salary": 84145,
+  "bonus": 6899,
+  "tax_deducted": 8414,
+  "net_payable": 82630,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf3f"
+  },
+  "payroll_id": 20,
+  "employee_id": 20,
+  "month": "2024-05-01",
+  "base_salary": 59655,
+  "bonus": 3792,
+  "tax_deducted": 5965,
+  "net_payable": 57482,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf40"
+  },
+  "payroll_id": 21,
+  "employee_id": 21,
+  "month": "2024-05-01",
+  "base_salary": 83517,
+  "bonus": 5354,
+  "tax_deducted": 8351,
+  "net_payable": 80520,
+  "status": "Unpaid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf41"
+  },
+  "payroll_id": 22,
+  "employee_id": 22,
+  "month": "2024-05-01",
+  "base_salary": 67811,
+  "bonus": 9108,
+  "tax_deducted": 6781,
+  "net_payable": 70138,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf42"
+  },
+  "payroll_id": 23,
+  "employee_id": 23,
+  "month": "2024-05-01",
+  "base_salary": 79216,
+  "bonus": 3559,
+  "tax_deducted": 7921,
+  "net_payable": 74854,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf43"
+  },
+  "payroll_id": 24,
+  "employee_id": 24,
+  "month": "2024-05-01",
+  "base_salary": 39957,
+  "bonus": 4560,
+  "tax_deducted": 3995,
+  "net_payable": 40522,
+  "status": "Unpaid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf44"
+  },
+  "payroll_id": 25,
+  "employee_id": 25,
+  "month": "2024-05-01",
+  "base_salary": 31632,
+  "bonus": 7240,
+  "tax_deducted": 3163,
+  "net_payable": 35709,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf45"
+  },
+  "payroll_id": 26,
+  "employee_id": 26,
+  "month": "2024-05-01",
+  "base_salary": 64439,
+  "bonus": 4929,
+  "tax_deducted": 6443,
+  "net_payable": 62925,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf46"
+  },
+  "payroll_id": 27,
+  "employee_id": 27,
+  "month": "2024-05-01",
+  "base_salary": 38360,
+  "bonus": 2551,
+  "tax_deducted": 3836,
+  "net_payable": 37075,
+  "status": "Unpaid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf47"
+  },
+  "payroll_id": 28,
+  "employee_id": 28,
+  "month": "2024-05-01",
+  "base_salary": 53445,
+  "bonus": 9446,
+  "tax_deducted": 5344,
+  "net_payable": 57547,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf48"
+  },
+  "payroll_id": 29,
+  "employee_id": 29,
+  "month": "2024-05-01",
+  "base_salary": 54442,
+  "bonus": 6318,
+  "tax_deducted": 5444,
+  "net_payable": 55316,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf49"
+  },
+  "payroll_id": 30,
+  "employee_id": 30,
+  "month": "2024-05-01",
+  "base_salary": 88938,
+  "bonus": 4632,
+  "tax_deducted": 8893,
+  "net_payable": 84677,
+  "status": "Unpaid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf4a"
+  },
+  "payroll_id": 31,
+  "employee_id": 31,
+  "month": "2024-05-01",
+  "base_salary": 54484,
+  "bonus": 8114,
+  "tax_deducted": 5448,
+  "net_payable": 57150,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf4b"
+  },
+  "payroll_id": 32,
+  "employee_id": 32,
+  "month": "2024-05-01",
+  "base_salary": 53535,
+  "bonus": 7636,
+  "tax_deducted": 5353,
+  "net_payable": 55818,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf4c"
+  },
+  "payroll_id": 33,
+  "employee_id": 33,
+  "month": "2024-05-01",
+  "base_salary": 45762,
+  "bonus": 2338,
+  "tax_deducted": 4576,
+  "net_payable": 43524,
+  "status": "Unpaid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf4d"
+  },
+  "payroll_id": 34,
+  "employee_id": 34,
+  "month": "2024-05-01",
+  "base_salary": 64798,
+  "bonus": 7826,
+  "tax_deducted": 6479,
+  "net_payable": 66145,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf4e"
+  },
+  "payroll_id": 35,
+  "employee_id": 35,
+  "month": "2024-05-01",
+  "base_salary": 68177,
+  "bonus": 3231,
+  "tax_deducted": 6817,
+  "net_payable": 64591,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf4f"
+  },
+  "payroll_id": 36,
+  "employee_id": 36,
+  "month": "2024-05-01",
+  "base_salary": 74211,
+  "bonus": 9122,
+  "tax_deducted": 7421,
+  "net_payable": 75912,
+  "status": "Unpaid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf50"
+  },
+  "payroll_id": 37,
+  "employee_id": 37,
+  "month": "2024-05-01",
+  "base_salary": 40725,
+  "bonus": 7385,
+  "tax_deducted": 4072,
+  "net_payable": 44038,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf51"
+  },
+  "payroll_id": 38,
+  "employee_id": 38,
+  "month": "2024-05-01",
+  "base_salary": 68684,
+  "bonus": 6628,
+  "tax_deducted": 6868,
+  "net_payable": 68444,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf52"
+  },
+  "payroll_id": 39,
+  "employee_id": 39,
+  "month": "2024-05-01",
+  "base_salary": 31641,
+  "bonus": 2773,
+  "tax_deducted": 3164,
+  "net_payable": 31250,
+  "status": "Unpaid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf53"
+  },
+  "payroll_id": 40,
+  "employee_id": 40,
+  "month": "2024-05-01",
+  "base_salary": 56426,
+  "bonus": 6554,
+  "tax_deducted": 5642,
+  "net_payable": 57338,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf54"
+  },
+  "payroll_id": 41,
+  "employee_id": 41,
+  "month": "2024-05-01",
+  "base_salary": 46311,
+  "bonus": 9179,
+  "tax_deducted": 4631,
+  "net_payable": 50859,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf55"
+  },
+  "payroll_id": 42,
+  "employee_id": 42,
+  "month": "2024-05-01",
+  "base_salary": 32666,
+  "bonus": 5362,
+  "tax_deducted": 3266,
+  "net_payable": 34762,
+  "status": "Unpaid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf56"
+  },
+  "payroll_id": 43,
+  "employee_id": 43,
+  "month": "2024-05-01",
+  "base_salary": 85136,
+  "bonus": 3408,
+  "tax_deducted": 8513,
+  "net_payable": 80031,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf57"
+  },
+  "payroll_id": 44,
+  "employee_id": 44,
+  "month": "2024-05-01",
+  "base_salary": 82669,
+  "bonus": 7668,
+  "tax_deducted": 8266,
+  "net_payable": 82071,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf58"
+  },
+  "payroll_id": 45,
+  "employee_id": 45,
+  "month": "2024-05-01",
+  "base_salary": 55808,
+  "bonus": 3510,
+  "tax_deducted": 5580,
+  "net_payable": 53738,
+  "status": "Unpaid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf59"
+  },
+  "payroll_id": 46,
+  "employee_id": 46,
+  "month": "2024-05-01",
+  "base_salary": 70288,
+  "bonus": 9904,
+  "tax_deducted": 7028,
+  "net_payable": 73164,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf5a"
+  },
+  "payroll_id": 47,
+  "employee_id": 47,
+  "month": "2024-05-01",
+  "base_salary": 62810,
+  "bonus": 2028,
+  "tax_deducted": 6281,
+  "net_payable": 58557,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf5b"
+  },
+  "payroll_id": 48,
+  "employee_id": 48,
+  "month": "2024-05-01",
+  "base_salary": 63536,
+  "bonus": 2862,
+  "tax_deducted": 6353,
+  "net_payable": 60045,
+  "status": "Unpaid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf5c"
+  },
+  "payroll_id": 49,
+  "employee_id": 49,
+  "month": "2024-05-01",
+  "base_salary": 87306,
+  "bonus": 9651,
+  "tax_deducted": 8730,
+  "net_payable": 88227,
+  "status": "Paid"
+},
+{
+  "_id": {
+    "$oid": "68416dbb4dd58953d6efdf5d"
+  },
+  "payroll_id": 50,
+  "employee_id": 50,
+  "month": "2024-05-01",
+  "base_salary": 42999,
+  "bonus": 9327,
+  "tax_deducted": 4299,
+  "net_payable": 48027,
+  "status": "Paid"
+}]

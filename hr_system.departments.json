@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "684170ab6d7f48ef2bc036d5"
+  },
+  "department_id": 1,
+  "department_name": " Human Resources"
+},
+{
+  "_id": {
+    "$oid": "684170ab6d7f48ef2bc036d6"
+  },
+  "department_id": 2,
+  "department_name": "Engineering"
+},
+{
+  "_id": {
+    "$oid": "684170ab6d7f48ef2bc036d7"
+  },
+  "department_id": 3,
+  "department_name": "Sales"
+}]

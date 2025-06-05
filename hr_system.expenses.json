@@ -1,0 +1,600 @@
+[{
+  "_id": {
+    "$oid": "684175314dd58953d6efdff2"
+  },
+  "expense_id": 1,
+  "employee_id": 1,
+  "category": "Training",
+  "amount": 6037.65,
+  "date_submitted": "2024-06-15",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/1.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efdff3"
+  },
+  "expense_id": 2,
+  "employee_id": 2,
+  "category": "Other",
+  "amount": 9820.02,
+  "date_submitted": "2024-06-12",
+  "status": "Approved",
+  "receipt_link": "https://alpixn.com/receipts/2.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efdff4"
+  },
+  "expense_id": 3,
+  "employee_id": 3,
+  "category": "Supplies",
+  "amount": 3227.78,
+  "date_submitted": "2024-06-10",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/3.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efdff5"
+  },
+  "expense_id": 4,
+  "employee_id": 4,
+  "category": "Other",
+  "amount": 9712.29,
+  "date_submitted": "2024-06-15",
+  "status": "Approved",
+  "receipt_link": "https://alpixn.com/receipts/4.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efdff6"
+  },
+  "expense_id": 5,
+  "employee_id": 5,
+  "category": "Meals",
+  "amount": 6180.43,
+  "date_submitted": "2024-06-23",
+  "status": "Rejected",
+  "receipt_link": "https://alpixn.com/receipts/5.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efdff7"
+  },
+  "expense_id": 6,
+  "employee_id": 6,
+  "category": "Training",
+  "amount": 5096.07,
+  "date_submitted": "2024-06-17",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/6.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efdff8"
+  },
+  "expense_id": 7,
+  "employee_id": 7,
+  "category": "Supplies",
+  "amount": 6956.96,
+  "date_submitted": "2024-06-07",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/7.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efdff9"
+  },
+  "expense_id": 8,
+  "employee_id": 8,
+  "category": "Meals",
+  "amount": 6848.98,
+  "date_submitted": "2024-06-10",
+  "status": "Rejected",
+  "receipt_link": "https://alpixn.com/receipts/8.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efdffa"
+  },
+  "expense_id": 9,
+  "employee_id": 9,
+  "category": "Supplies",
+  "amount": 3216.64,
+  "date_submitted": "2024-06-08",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/9.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efdffb"
+  },
+  "expense_id": 10,
+  "employee_id": 10,
+  "category": "Supplies",
+  "amount": 6166.88,
+  "date_submitted": "2024-06-14",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/10.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efdffc"
+  },
+  "expense_id": 11,
+  "employee_id": 11,
+  "category": "Supplies",
+  "amount": 9393.15,
+  "date_submitted": "2024-06-11",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/11.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efdffd"
+  },
+  "expense_id": 12,
+  "employee_id": 12,
+  "category": "Other",
+  "amount": 6400.05,
+  "date_submitted": "2024-06-06",
+  "status": "Rejected",
+  "receipt_link": "https://alpixn.com/receipts/12.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efdffe"
+  },
+  "expense_id": 13,
+  "employee_id": 13,
+  "category": "Meals",
+  "amount": 9979.33,
+  "date_submitted": "2024-06-22",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/13.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efdfff"
+  },
+  "expense_id": 14,
+  "employee_id": 14,
+  "category": "Training",
+  "amount": 1177.71,
+  "date_submitted": "2024-06-11",
+  "status": "Rejected",
+  "receipt_link": "https://alpixn.com/receipts/14.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe000"
+  },
+  "expense_id": 15,
+  "employee_id": 15,
+  "category": "Training",
+  "amount": 7458.26,
+  "date_submitted": "2024-06-09",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/15.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe001"
+  },
+  "expense_id": 16,
+  "employee_id": 16,
+  "category": "Other",
+  "amount": 4079.15,
+  "date_submitted": "2024-06-06",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/16.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe002"
+  },
+  "expense_id": 17,
+  "employee_id": 17,
+  "category": "Supplies",
+  "amount": 9804.15,
+  "date_submitted": "2024-06-04",
+  "status": "Rejected",
+  "receipt_link": "https://alpixn.com/receipts/17.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe003"
+  },
+  "expense_id": 18,
+  "employee_id": 18,
+  "category": "Other",
+  "amount": 992.5,
+  "date_submitted": "2024-06-19",
+  "status": "Approved",
+  "receipt_link": "https://alpixn.com/receipts/18.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe004"
+  },
+  "expense_id": 19,
+  "employee_id": 19,
+  "category": "Supplies",
+  "amount": 6979.28,
+  "date_submitted": "2024-06-07",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/19.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe005"
+  },
+  "expense_id": 20,
+  "employee_id": 20,
+  "category": "Meals",
+  "amount": 5176.2,
+  "date_submitted": "2024-06-04",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/20.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe006"
+  },
+  "expense_id": 21,
+  "employee_id": 21,
+  "category": "Travel",
+  "amount": 4593.35,
+  "date_submitted": "2024-06-02",
+  "status": "Approved",
+  "receipt_link": "https://alpixn.com/receipts/21.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe007"
+  },
+  "expense_id": 22,
+  "employee_id": 22,
+  "category": "Meals",
+  "amount": 6733.16,
+  "date_submitted": "2024-06-01",
+  "status": "Rejected",
+  "receipt_link": "https://alpixn.com/receipts/22.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe008"
+  },
+  "expense_id": 23,
+  "employee_id": 23,
+  "category": "Training",
+  "amount": 3845.44,
+  "date_submitted": "2024-06-25",
+  "status": "Approved",
+  "receipt_link": "https://alpixn.com/receipts/23.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe009"
+  },
+  "expense_id": 24,
+  "employee_id": 24,
+  "category": "Travel",
+  "amount": 8557.82,
+  "date_submitted": "2024-06-25",
+  "status": "Rejected",
+  "receipt_link": "https://alpixn.com/receipts/24.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe00a"
+  },
+  "expense_id": 25,
+  "employee_id": 25,
+  "category": "Meals",
+  "amount": 2956.99,
+  "date_submitted": "2024-06-06",
+  "status": "Rejected",
+  "receipt_link": "https://alpixn.com/receipts/25.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe00b"
+  },
+  "expense_id": 26,
+  "employee_id": 26,
+  "category": "Meals",
+  "amount": 8797.26,
+  "date_submitted": "2024-06-15",
+  "status": "Approved",
+  "receipt_link": "https://alpixn.com/receipts/26.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe00c"
+  },
+  "expense_id": 27,
+  "employee_id": 27,
+  "category": "Meals",
+  "amount": 5724.25,
+  "date_submitted": "2024-06-21",
+  "status": "Rejected",
+  "receipt_link": "https://alpixn.com/receipts/27.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe00d"
+  },
+  "expense_id": 28,
+  "employee_id": 28,
+  "category": "Supplies",
+  "amount": 5947.22,
+  "date_submitted": "2024-06-04",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/28.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe00e"
+  },
+  "expense_id": 29,
+  "employee_id": 29,
+  "category": "Other",
+  "amount": 9285.69,
+  "date_submitted": "2024-06-06",
+  "status": "Approved",
+  "receipt_link": "https://alpixn.com/receipts/29.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe00f"
+  },
+  "expense_id": 30,
+  "employee_id": 30,
+  "category": "Travel",
+  "amount": 6009.25,
+  "date_submitted": "2024-06-10",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/30.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe010"
+  },
+  "expense_id": 31,
+  "employee_id": 31,
+  "category": "Training",
+  "amount": 3526.55,
+  "date_submitted": "2024-06-20",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/31.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe011"
+  },
+  "expense_id": 32,
+  "employee_id": 32,
+  "category": "Other",
+  "amount": 1228.85,
+  "date_submitted": "2024-06-02",
+  "status": "Approved",
+  "receipt_link": "https://alpixn.com/receipts/32.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe012"
+  },
+  "expense_id": 33,
+  "employee_id": 33,
+  "category": "Meals",
+  "amount": 4321.69,
+  "date_submitted": "2024-06-10",
+  "status": "Approved",
+  "receipt_link": "https://alpixn.com/receipts/33.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe013"
+  },
+  "expense_id": 34,
+  "employee_id": 34,
+  "category": "Travel",
+  "amount": 1404.07,
+  "date_submitted": "2024-06-03",
+  "status": "Approved",
+  "receipt_link": "https://alpixn.com/receipts/34.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe014"
+  },
+  "expense_id": 35,
+  "employee_id": 35,
+  "category": "Supplies",
+  "amount": 2914.11,
+  "date_submitted": "2024-06-01",
+  "status": "Approved",
+  "receipt_link": "https://alpixn.com/receipts/35.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe015"
+  },
+  "expense_id": 36,
+  "employee_id": 36,
+  "category": "Meals",
+  "amount": 7239.64,
+  "date_submitted": "2024-06-06",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/36.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe016"
+  },
+  "expense_id": 37,
+  "employee_id": 37,
+  "category": "Meals",
+  "amount": 3451.03,
+  "date_submitted": "2024-06-16",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/37.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe017"
+  },
+  "expense_id": 38,
+  "employee_id": 38,
+  "category": "Supplies",
+  "amount": 810.54,
+  "date_submitted": "2024-06-09",
+  "status": "Rejected",
+  "receipt_link": "https://alpixn.com/receipts/38.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe018"
+  },
+  "expense_id": 39,
+  "employee_id": 39,
+  "category": "Travel",
+  "amount": 7615.31,
+  "date_submitted": "2024-06-01",
+  "status": "Rejected",
+  "receipt_link": "https://alpixn.com/receipts/39.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe019"
+  },
+  "expense_id": 40,
+  "employee_id": 40,
+  "category": "Other",
+  "amount": 1490.77,
+  "date_submitted": "2024-06-10",
+  "status": "Approved",
+  "receipt_link": "https://alpixn.com/receipts/40.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe01a"
+  },
+  "expense_id": 41,
+  "employee_id": 41,
+  "category": "Other",
+  "amount": 7496.19,
+  "date_submitted": "2024-06-23",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/41.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe01b"
+  },
+  "expense_id": 42,
+  "employee_id": 42,
+  "category": "Supplies",
+  "amount": 7777.65,
+  "date_submitted": "2024-06-18",
+  "status": "Rejected",
+  "receipt_link": "https://alpixn.com/receipts/42.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe01c"
+  },
+  "expense_id": 43,
+  "employee_id": 43,
+  "category": "Travel",
+  "amount": 6769.42,
+  "date_submitted": "2024-06-08",
+  "status": "Approved",
+  "receipt_link": "https://alpixn.com/receipts/43.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe01d"
+  },
+  "expense_id": 44,
+  "employee_id": 44,
+  "category": "Travel",
+  "amount": 315.26,
+  "date_submitted": "2024-06-25",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/44.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe01e"
+  },
+  "expense_id": 45,
+  "employee_id": 45,
+  "category": "Other",
+  "amount": 4263.52,
+  "date_submitted": "2024-06-14",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/45.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe01f"
+  },
+  "expense_id": 46,
+  "employee_id": 46,
+  "category": "Training",
+  "amount": 1655.98,
+  "date_submitted": "2024-06-22",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/46.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe020"
+  },
+  "expense_id": 47,
+  "employee_id": 47,
+  "category": "Other",
+  "amount": 8388.49,
+  "date_submitted": "2024-06-05",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/47.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe021"
+  },
+  "expense_id": 48,
+  "employee_id": 48,
+  "category": "Training",
+  "amount": 8393.08,
+  "date_submitted": "2024-06-06",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/48.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe022"
+  },
+  "expense_id": 49,
+  "employee_id": 49,
+  "category": "Other",
+  "amount": 5930.13,
+  "date_submitted": "2024-06-14",
+  "status": "Rejected",
+  "receipt_link": "https://alpixn.com/receipts/49.pdf"
+},
+{
+  "_id": {
+    "$oid": "684175314dd58953d6efe023"
+  },
+  "expense_id": 50,
+  "employee_id": 50,
+  "category": "Travel",
+  "amount": 3064.29,
+  "date_submitted": "2024-06-07",
+  "status": "Pending",
+  "receipt_link": "https://alpixn.com/receipts/50.pdf"
+}]

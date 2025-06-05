@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "684170374dd58953d6efdf96"
+  },
+  "job_role_id": 1,
+  "title": "Software Engineer",
+  "level": "L2"
+},
+{
+  "_id": {
+    "$oid": "684170374dd58953d6efdf9b"
+  },
+  "job_role_id": 2,
+  "title": "HR Manager",
+  "level": "L4"
+}]

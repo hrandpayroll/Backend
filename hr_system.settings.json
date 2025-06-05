@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "68417ab94dd58953d6efe15b"
+  },
+  "setting_id": 1,
+  "setting_key": "setting_key_1",
+  "value": "value_1",
+  "module_name": "leave"
+},
+{
+  "_id": {
+    "$oid": "68417ab94dd58953d6efe15c"
+  },
+  "setting_id": 2,
+  "setting_key": "setting_key_2",
+  "value": "value_2",
+  "module_name": "attendance"
+},
+{
+  "_id": {
+    "$oid": "68417ab94dd58953d6efe15d"
+  },
+  "setting_id": 3,
+  "setting_key": "setting_key_3",
+  "value": "value_3",
+  "module_name": "attendance"
+},
+{
+  "_id": {
+    "$oid": "68417ab94dd58953d6efe15e"
+  },
+  "setting_id": 4,
+  "setting_key": "setting_key_4",
+  "value": "value_4",
+  "module_name": "payroll"
+},
+{
+  "_id": {
+    "$oid": "68417ab94dd58953d6efe15f"
+  },
+  "setting_id": 5,
+  "setting_key": "setting_key_5",
+  "value": "value_5",
+  "module_name": "leave"
+},
+{
+  "_id": {
+    "$oid": "68417ab94dd58953d6efe160"
+  },
+  "setting_id": 6,
+  "setting_key": "setting_key_6",
+  "value": "value_6",
+  "module_name": "notifications"
+},
+{
+  "_id": {
+    "$oid": "68417ab94dd58953d6efe161"
+  },
+  "setting_id": 7,
+  "setting_key": "setting_key_7",
+  "value": "value_7",
+  "module_name": "leave"
+},
+{
+  "_id": {
+    "$oid": "68417ab94dd58953d6efe162"
+  },
+  "setting_id": 8,
+  "setting_key": "setting_key_8",
+  "value": "value_8",
+  "module_name": "payroll"
+},
+{
+  "_id": {
+    "$oid": "68417ab94dd58953d6efe163"
+  },
+  "setting_id": 9,
+  "setting_key": "setting_key_9",
+  "value": "value_9",
+  "module_name": "notifications"
+},
+{
+  "_id": {
+    "$oid": "68417ab94dd58953d6efe164"
+  },
+  "setting_id": 10,
+  "setting_key": "setting_key_10",
+  "value": "value_10",
+  "module_name": "payroll"
+},
+{
+  "_id": {
+    "$oid": "68417ab94dd58953d6efe165"
+  },
+  "setting_id": 11,
+  "setting_key": "setting_key_11",
+  "value": "value_11",
+  "module_name": "payroll"
+},
+{
+  "_id": {
+    "$oid": "68417ab94dd58953d6efe166"
+  },
+  "setting_id": 12,
+  "setting_key": "setting_key_12",
+  "value": "value_12",
+  "module_name": "security"
+},
+{
+  "_id": {
+    "$oid": "68417ab94dd58953d6efe167"
+  },
+  "setting_id": 13,
+  "setting_key": "setting_key_13",
+  "value": "value_13",
+  "module_name": "security"
+},
+{
+  "_id": {
+    "$oid": "68417ab94dd58953d6efe168"
+  },
+  "setting_id": 14,
+  "setting_key": "setting_key_14",
+  "value": "value_14",
+  "module_name": "security"
+},
+{
+  "_id": {
+    "$oid": "68417ab94dd58953d6efe169"
+  },
+  "setting_id": 15,
+  "setting_key": "setting_key_15",
+  "value": "value_15",
+  "module_name": "attendance"
+},
+{
+  "_id": {
+    "$oid": "68417ab94dd58953d6efe16a"
+  },
+  "setting_id": 16,
+  "setting_key": "setting_key_16",
+  "value": "value_16",
+  "module_name": "payroll"
+},
+{
+  "_id": {
+    "$oid": "68417ab94dd58953d6efe16b"
+  },
+  "setting_id": 17,
+  "setting_key": "setting_key_17",
+  "value": "value_17",
+  "module_name": "notifications"
+},
+{
+  "_id": {
+    "$oid": "68417ab94dd58953d6efe16c"
+  },
+  "setting_id": 18,
+  "setting_key": "setting_key_18",
+  "value": "value_18",
+  "module_name": "security"
+},
+{
+  "_id": {
+    "$oid": "68417ab94dd58953d6efe16d"
+  },
+  "setting_id": 19,
+  "setting_key": "setting_key_19",
+  "value": "value_19",
+  "module_name": "leave"
+},
+{
+  "_id": {
+    "$oid": "68417ab94dd58953d6efe16e"
+  },
+  "setting_id": 20,
+  "setting_key": "setting_key_20",
+  "value": "value_20",
+  "module_name": "payroll"
+}]

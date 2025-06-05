@@ -1,0 +1,550 @@
+[{
+  "_id": {
+    "$oid": "684172f14dd58953d6efdfb4"
+  },
+  "leave_id": 1,
+  "employee_id": 1,
+  "start_date": "2024-06-13",
+  "end_date": "2024-06-15",
+  "type": "Casual",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "684172f14dd58953d6efdfb5"
+  },
+  "leave_id": 2,
+  "employee_id": 2,
+  "start_date": "2024-06-02",
+  "end_date": "2024-06-05",
+  "type": "Earned",
+  "status": "Approved"
+},
+{
+  "_id": {
+    "$oid": "684172f14dd58953d6efdfb6"
+  },
+  "leave_id": 3,
+  "employee_id": 3,
+  "start_date": "2024-06-10",
+  "end_date": "2024-06-14",
+  "type": "Sick",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "684172f14dd58953d6efdfb7"
+  },
+  "leave_id": 4,
+  "employee_id": 4,
+  "start_date": "2024-06-19",
+  "end_date": "2024-06-20",
+  "type": "Sick",
+  "status": "Rejected"
+},
+{
+  "_id": {
+    "$oid": "684172f14dd58953d6efdfb8"
+  },
+  "leave_id": 5,
+  "employee_id": 5,
+  "start_date": "2024-06-24",
+  "end_date": "2024-06-28",
+  "type": "Casual",
+  "status": "Rejected"
+},
+{
+  "_id": {
+    "$oid": "684172f14dd58953d6efdfb9"
+  },
+  "leave_id": 6,
+  "employee_id": 6,
+  "start_date": "2024-06-18",
+  "end_date": "2024-06-22",
+  "type": "Casual",
+  "status": "Approved"
+},
+{
+  "_id": {
+    "$oid": "684172f14dd58953d6efdfba"
+  },
+  "leave_id": 7,
+  "employee_id": 7,
+  "start_date": "2024-06-25",
+  "end_date": "2024-06-29",
+  "type": "Earned",
+  "status": "Approved"
+},
+{
+  "_id": {
+    "$oid": "684172f14dd58953d6efdfbb"
+  },
+  "leave_id": 8,
+  "employee_id": 8,
+  "start_date": "2024-06-07",
+  "end_date": "2024-06-11",
+  "type": "Earned",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "684172f14dd58953d6efdfbc"
+  },
+  "leave_id": 9,
+  "employee_id": 9,
+  "start_date": "2024-06-22",
+  "end_date": "2024-06-26",
+  "type": "Earned",
+  "status": "Rejected"
+},
+{
+  "_id": {
+    "$oid": "684172f14dd58953d6efdfbd"
+  },
+  "leave_id": 10,
+  "employee_id": 10,
+  "start_date": "2024-06-08",
+  "end_date": "2024-06-09",
+  "type": "Sick",
+  "status": "Rejected"
+},
+{
+  "_id": {
+    "$oid": "6841732f4dd58953d6efdfbf"
+  },
+  "leave_id": 11,
+  "employee_id": 11,
+  "start_date": "2024-06-20",
+  "end_date": "2024-06-23",
+  "type": "Sick",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6841732f4dd58953d6efdfc0"
+  },
+  "leave_id": 12,
+  "employee_id": 12,
+  "start_date": "2024-06-16",
+  "end_date": "2024-06-18",
+  "type": "Earned",
+  "status": "Rejected"
+},
+{
+  "_id": {
+    "$oid": "6841732f4dd58953d6efdfc1"
+  },
+  "leave_id": 13,
+  "employee_id": 13,
+  "start_date": "2024-06-07",
+  "end_date": "2024-06-08",
+  "type": "Casual",
+  "status": "Rejected"
+},
+{
+  "_id": {
+    "$oid": "6841732f4dd58953d6efdfc2"
+  },
+  "leave_id": 14,
+  "employee_id": 14,
+  "start_date": "2024-06-17",
+  "end_date": "2024-06-21",
+  "type": "Sick",
+  "status": "Approved"
+},
+{
+  "_id": {
+    "$oid": "6841732f4dd58953d6efdfc3"
+  },
+  "leave_id": 15,
+  "employee_id": 15,
+  "start_date": "2024-06-05",
+  "end_date": "2024-06-08",
+  "type": "Sick",
+  "status": "Rejected"
+},
+{
+  "_id": {
+    "$oid": "6841732f4dd58953d6efdfc4"
+  },
+  "leave_id": 16,
+  "employee_id": 16,
+  "start_date": "2024-06-12",
+  "end_date": "2024-06-13",
+  "type": "Casual",
+  "status": "Approved"
+},
+{
+  "_id": {
+    "$oid": "6841732f4dd58953d6efdfc5"
+  },
+  "leave_id": 17,
+  "employee_id": 17,
+  "start_date": "2024-06-14",
+  "end_date": "2024-06-18",
+  "type": "Sick",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "6841732f4dd58953d6efdfc6"
+  },
+  "leave_id": 18,
+  "employee_id": 18,
+  "start_date": "2024-06-21",
+  "end_date": "2024-06-24",
+  "type": "Earned",
+  "status": "Approved"
+},
+{
+  "_id": {
+    "$oid": "6841732f4dd58953d6efdfc7"
+  },
+  "leave_id": 19,
+  "employee_id": 19,
+  "start_date": "2024-06-03",
+  "end_date": "2024-06-06",
+  "type": "Earned",
+  "status": "Approved"
+},
+{
+  "_id": {
+    "$oid": "6841732f4dd58953d6efdfc8"
+  },
+  "leave_id": 20,
+  "employee_id": 20,
+  "start_date": "2024-06-15",
+  "end_date": "2024-06-18",
+  "type": "Sick",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "684173724dd58953d6efdfca"
+  },
+  "leave_id": 21,
+  "employee_id": 21,
+  "start_date": "2024-06-04",
+  "end_date": "2024-06-07",
+  "type": "Earned",
+  "status": "Rejected"
+},
+{
+  "_id": {
+    "$oid": "684173724dd58953d6efdfcb"
+  },
+  "leave_id": 22,
+  "employee_id": 22,
+  "start_date": "2024-06-06",
+  "end_date": "2024-06-10",
+  "type": "Casual",
+  "status": "Approved"
+},
+{
+  "_id": {
+    "$oid": "684173724dd58953d6efdfcc"
+  },
+  "leave_id": 23,
+  "employee_id": 23,
+  "start_date": "2024-06-08",
+  "end_date": "2024-06-10",
+  "type": "Casual",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "684173724dd58953d6efdfcd"
+  },
+  "leave_id": 24,
+  "employee_id": 24,
+  "start_date": "2024-06-01",
+  "end_date": "2024-06-04",
+  "type": "Sick",
+  "status": "Approved"
+},
+{
+  "_id": {
+    "$oid": "684173724dd58953d6efdfce"
+  },
+  "leave_id": 25,
+  "employee_id": 25,
+  "start_date": "2024-06-05",
+  "end_date": "2024-06-08",
+  "type": "Casual",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "684173724dd58953d6efdfcf"
+  },
+  "leave_id": 26,
+  "employee_id": 26,
+  "start_date": "2024-06-15",
+  "end_date": "2024-06-18",
+  "type": "Sick",
+  "status": "Rejected"
+},
+{
+  "_id": {
+    "$oid": "684173724dd58953d6efdfd0"
+  },
+  "leave_id": 27,
+  "employee_id": 27,
+  "start_date": "2024-06-18",
+  "end_date": "2024-06-22",
+  "type": "Earned",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "684173724dd58953d6efdfd1"
+  },
+  "leave_id": 28,
+  "employee_id": 28,
+  "start_date": "2024-06-09",
+  "end_date": "2024-06-13",
+  "type": "Earned",
+  "status": "Approved"
+},
+{
+  "_id": {
+    "$oid": "684173724dd58953d6efdfd2"
+  },
+  "leave_id": 29,
+  "employee_id": 29,
+  "start_date": "2024-06-11",
+  "end_date": "2024-06-14",
+  "type": "Casual",
+  "status": "Approved"
+},
+{
+  "_id": {
+    "$oid": "684173724dd58953d6efdfd3"
+  },
+  "leave_id": 30,
+  "employee_id": 30,
+  "start_date": "2024-06-17",
+  "end_date": "2024-06-19",
+  "type": "Sick",
+  "status": "Approved"
+},
+{
+  "_id": {
+    "$oid": "684173ab4dd58953d6efdfd5"
+  },
+  "leave_id": 31,
+  "employee_id": 31,
+  "start_date": "2024-06-06",
+  "end_date": "2024-06-09",
+  "type": "Casual",
+  "status": "Approved"
+},
+{
+  "_id": {
+    "$oid": "684173ab4dd58953d6efdfd6"
+  },
+  "leave_id": 32,
+  "employee_id": 32,
+  "start_date": "2024-06-13",
+  "end_date": "2024-06-15",
+  "type": "Sick",
+  "status": "Rejected"
+},
+{
+  "_id": {
+    "$oid": "684173ab4dd58953d6efdfd7"
+  },
+  "leave_id": 33,
+  "employee_id": 33,
+  "start_date": "2024-06-12",
+  "end_date": "2024-06-15",
+  "type": "Earned",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "684173ab4dd58953d6efdfd8"
+  },
+  "leave_id": 34,
+  "employee_id": 34,
+  "start_date": "2024-06-10",
+  "end_date": "2024-06-12",
+  "type": "Casual",
+  "status": "Rejected"
+},
+{
+  "_id": {
+    "$oid": "684173ab4dd58953d6efdfd9"
+  },
+  "leave_id": 35,
+  "employee_id": 35,
+  "start_date": "2024-06-02",
+  "end_date": "2024-06-04",
+  "type": "Sick",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "684173ab4dd58953d6efdfda"
+  },
+  "leave_id": 36,
+  "employee_id": 36,
+  "start_date": "2024-06-14",
+  "end_date": "2024-06-18",
+  "type": "Earned",
+  "status": "Approved"
+},
+{
+  "_id": {
+    "$oid": "684173ab4dd58953d6efdfdb"
+  },
+  "leave_id": 37,
+  "employee_id": 37,
+  "start_date": "2024-06-08",
+  "end_date": "2024-06-12",
+  "type": "Sick",
+  "status": "Approved"
+},
+{
+  "_id": {
+    "$oid": "684173ab4dd58953d6efdfdc"
+  },
+  "leave_id": 38,
+  "employee_id": 38,
+  "start_date": "2024-06-16",
+  "end_date": "2024-06-20",
+  "type": "Casual",
+  "status": "Rejected"
+},
+{
+  "_id": {
+    "$oid": "684173ab4dd58953d6efdfdd"
+  },
+  "leave_id": 39,
+  "employee_id": 39,
+  "start_date": "2024-06-05",
+  "end_date": "2024-06-09",
+  "type": "Earned",
+  "status": "Rejected"
+},
+{
+  "_id": {
+    "$oid": "684173ab4dd58953d6efdfde"
+  },
+  "leave_id": 40,
+  "employee_id": 40,
+  "start_date": "2024-06-17",
+  "end_date": "2024-06-20",
+  "type": "Sick",
+  "status": "Approved"
+},
+{
+  "_id": {
+    "$oid": "684174684dd58953d6efdfe0"
+  },
+  "leave_id": 41,
+  "employee_id": 41,
+  "start_date": "2024-06-04",
+  "end_date": "2024-06-07",
+  "type": "Sick",
+  "status": "Approved"
+},
+{
+  "_id": {
+    "$oid": "684174684dd58953d6efdfe1"
+  },
+  "leave_id": 42,
+  "employee_id": 42,
+  "start_date": "2024-06-15",
+  "end_date": "2024-06-18",
+  "type": "Earned",
+  "status": "Rejected"
+},
+{
+  "_id": {
+    "$oid": "684174684dd58953d6efdfe2"
+  },
+  "leave_id": 43,
+  "employee_id": 43,
+  "start_date": "2024-06-11",
+  "end_date": "2024-06-12",
+  "type": "Casual",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "684174684dd58953d6efdfe3"
+  },
+  "leave_id": 44,
+  "employee_id": 44,
+  "start_date": "2024-06-09",
+  "end_date": "2024-06-13",
+  "type": "Sick",
+  "status": "Approved"
+},
+{
+  "_id": {
+    "$oid": "684174684dd58953d6efdfe4"
+  },
+  "leave_id": 45,
+  "employee_id": 45,
+  "start_date": "2024-06-19",
+  "end_date": "2024-06-23",
+  "type": "Casual",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "684174684dd58953d6efdfe5"
+  },
+  "leave_id": 46,
+  "employee_id": 46,
+  "start_date": "2024-06-10",
+  "end_date": "2024-06-14",
+  "type": "Earned",
+  "status": "Rejected"
+},
+{
+  "_id": {
+    "$oid": "684174684dd58953d6efdfe6"
+  },
+  "leave_id": 47,
+  "employee_id": 47,
+  "start_date": "2024-06-08",
+  "end_date": "2024-06-09",
+  "type": "Casual",
+  "status": "Approved"
+},
+{
+  "_id": {
+    "$oid": "684174684dd58953d6efdfe7"
+  },
+  "leave_id": 48,
+  "employee_id": 48,
+  "start_date": "2024-06-03",
+  "end_date": "2024-06-05",
+  "type": "Sick",
+  "status": "Pending"
+},
+{
+  "_id": {
+    "$oid": "684174684dd58953d6efdfe8"
+  },
+  "leave_id": 49,
+  "employee_id": 49,
+  "start_date": "2024-06-14",
+  "end_date": "2024-06-15",
+  "type": "Casual",
+  "status": "Approved"
+},
+{
+  "_id": {
+    "$oid": "684174684dd58953d6efdfe9"
+  },
+  "leave_id": 50,
+  "employee_id": 50,
+  "start_date": "2024-06-01",
+  "end_date": "2024-06-04",
+  "type": "Sick",
+  "status": "Approved"
+}]

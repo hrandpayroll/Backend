@@ -1,0 +1,500 @@
+[{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe176"
+  },
+  "notif_id": 1,
+  "employee_id": 1,
+  "message": "Notification message #1",
+  "created_at": "2024-06-22T12:39:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe177"
+  },
+  "notif_id": 2,
+  "employee_id": 2,
+  "message": "Notification message #2",
+  "created_at": "2024-06-22T16:51:00",
+  "is_read": false
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe178"
+  },
+  "notif_id": 3,
+  "employee_id": 3,
+  "message": "Notification message #3",
+  "created_at": "2024-06-26T10:59:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe179"
+  },
+  "notif_id": 4,
+  "employee_id": 4,
+  "message": "Notification message #4",
+  "created_at": "2024-06-26T11:11:00",
+  "is_read": false
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe17a"
+  },
+  "notif_id": 5,
+  "employee_id": 5,
+  "message": "Notification message #5",
+  "created_at": "2024-06-01T16:13:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe17b"
+  },
+  "notif_id": 6,
+  "employee_id": 6,
+  "message": "Notification message #6",
+  "created_at": "2024-06-23T10:51:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe17c"
+  },
+  "notif_id": 7,
+  "employee_id": 7,
+  "message": "Notification message #7",
+  "created_at": "2024-06-23T13:31:00",
+  "is_read": false
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe17d"
+  },
+  "notif_id": 8,
+  "employee_id": 8,
+  "message": "Notification message #8",
+  "created_at": "2024-06-19T11:51:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe17e"
+  },
+  "notif_id": 9,
+  "employee_id": 9,
+  "message": "Notification message #9",
+  "created_at": "2024-06-10T16:01:00",
+  "is_read": false
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe17f"
+  },
+  "notif_id": 10,
+  "employee_id": 10,
+  "message": "Notification message #10",
+  "created_at": "2024-06-07T16:34:00",
+  "is_read": false
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe180"
+  },
+  "notif_id": 11,
+  "employee_id": 11,
+  "message": "Notification message #11",
+  "created_at": "2024-06-16T16:14:00",
+  "is_read": false
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe181"
+  },
+  "notif_id": 12,
+  "employee_id": 12,
+  "message": "Notification message #12",
+  "created_at": "2024-06-19T09:02:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe182"
+  },
+  "notif_id": 13,
+  "employee_id": 13,
+  "message": "Notification message #13",
+  "created_at": "2024-06-06T11:33:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe183"
+  },
+  "notif_id": 14,
+  "employee_id": 14,
+  "message": "Notification message #14",
+  "created_at": "2024-06-09T17:52:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe184"
+  },
+  "notif_id": 15,
+  "employee_id": 15,
+  "message": "Notification message #15",
+  "created_at": "2024-06-15T13:54:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe185"
+  },
+  "notif_id": 16,
+  "employee_id": 16,
+  "message": "Notification message #16",
+  "created_at": "2024-06-20T16:05:00",
+  "is_read": false
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe186"
+  },
+  "notif_id": 17,
+  "employee_id": 17,
+  "message": "Notification message #17",
+  "created_at": "2024-06-12T15:58:00",
+  "is_read": false
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe187"
+  },
+  "notif_id": 18,
+  "employee_id": 18,
+  "message": "Notification message #18",
+  "created_at": "2024-06-23T16:39:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe188"
+  },
+  "notif_id": 19,
+  "employee_id": 19,
+  "message": "Notification message #19",
+  "created_at": "2024-06-08T18:28:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe189"
+  },
+  "notif_id": 20,
+  "employee_id": 20,
+  "message": "Notification message #20",
+  "created_at": "2024-06-28T13:28:00",
+  "is_read": false
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe18a"
+  },
+  "notif_id": 21,
+  "employee_id": 21,
+  "message": "Notification message #21",
+  "created_at": "2024-06-15T08:08:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe18b"
+  },
+  "notif_id": 22,
+  "employee_id": 22,
+  "message": "Notification message #22",
+  "created_at": "2024-06-22T16:08:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe18c"
+  },
+  "notif_id": 23,
+  "employee_id": 23,
+  "message": "Notification message #23",
+  "created_at": "2024-06-08T16:25:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe18d"
+  },
+  "notif_id": 24,
+  "employee_id": 24,
+  "message": "Notification message #24",
+  "created_at": "2024-06-27T12:07:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe18e"
+  },
+  "notif_id": 25,
+  "employee_id": 25,
+  "message": "Notification message #25",
+  "created_at": "2024-06-02T16:05:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe18f"
+  },
+  "notif_id": 26,
+  "employee_id": 26,
+  "message": "Notification message #26",
+  "created_at": "2024-06-11T12:16:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe190"
+  },
+  "notif_id": 27,
+  "employee_id": 27,
+  "message": "Notification message #27",
+  "created_at": "2024-06-05T08:53:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe191"
+  },
+  "notif_id": 28,
+  "employee_id": 28,
+  "message": "Notification message #28",
+  "created_at": "2024-06-20T17:43:00",
+  "is_read": false
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe192"
+  },
+  "notif_id": 29,
+  "employee_id": 29,
+  "message": "Notification message #29",
+  "created_at": "2024-06-19T11:34:00",
+  "is_read": false
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe193"
+  },
+  "notif_id": 30,
+  "employee_id": 30,
+  "message": "Notification message #30",
+  "created_at": "2024-06-12T09:36:00",
+  "is_read": false
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe194"
+  },
+  "notif_id": 31,
+  "employee_id": 31,
+  "message": "Notification message #31",
+  "created_at": "2024-06-20T11:42:00",
+  "is_read": false
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe195"
+  },
+  "notif_id": 32,
+  "employee_id": 32,
+  "message": "Notification message #32",
+  "created_at": "2024-06-19T18:51:00",
+  "is_read": false
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe196"
+  },
+  "notif_id": 33,
+  "employee_id": 33,
+  "message": "Notification message #33",
+  "created_at": "2024-06-01T08:04:00",
+  "is_read": false
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe197"
+  },
+  "notif_id": 34,
+  "employee_id": 34,
+  "message": "Notification message #34",
+  "created_at": "2024-06-08T15:16:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe198"
+  },
+  "notif_id": 35,
+  "employee_id": 35,
+  "message": "Notification message #35",
+  "created_at": "2024-06-06T18:57:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe199"
+  },
+  "notif_id": 36,
+  "employee_id": 36,
+  "message": "Notification message #36",
+  "created_at": "2024-06-20T11:16:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe19a"
+  },
+  "notif_id": 37,
+  "employee_id": 37,
+  "message": "Notification message #37",
+  "created_at": "2024-06-15T12:32:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe19b"
+  },
+  "notif_id": 38,
+  "employee_id": 38,
+  "message": "Notification message #38",
+  "created_at": "2024-06-02T14:12:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe19c"
+  },
+  "notif_id": 39,
+  "employee_id": 39,
+  "message": "Notification message #39",
+  "created_at": "2024-06-10T16:13:00",
+  "is_read": false
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe19d"
+  },
+  "notif_id": 40,
+  "employee_id": 40,
+  "message": "Notification message #40",
+  "created_at": "2024-06-21T13:22:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe19e"
+  },
+  "notif_id": 41,
+  "employee_id": 41,
+  "message": "Notification message #41",
+  "created_at": "2024-06-12T13:32:00",
+  "is_read": false
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe19f"
+  },
+  "notif_id": 42,
+  "employee_id": 42,
+  "message": "Notification message #42",
+  "created_at": "2024-06-22T11:39:00",
+  "is_read": false
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe1a0"
+  },
+  "notif_id": 43,
+  "employee_id": 43,
+  "message": "Notification message #43",
+  "created_at": "2024-06-15T08:32:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe1a1"
+  },
+  "notif_id": 44,
+  "employee_id": 44,
+  "message": "Notification message #44",
+  "created_at": "2024-06-04T09:21:00",
+  "is_read": false
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe1a2"
+  },
+  "notif_id": 45,
+  "employee_id": 45,
+  "message": "Notification message #45",
+  "created_at": "2024-06-22T10:04:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe1a3"
+  },
+  "notif_id": 46,
+  "employee_id": 46,
+  "message": "Notification message #46",
+  "created_at": "2024-06-05T15:30:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe1a4"
+  },
+  "notif_id": 47,
+  "employee_id": 47,
+  "message": "Notification message #47",
+  "created_at": "2024-06-27T13:41:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe1a5"
+  },
+  "notif_id": 48,
+  "employee_id": 48,
+  "message": "Notification message #48",
+  "created_at": "2024-06-11T17:44:00",
+  "is_read": true
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe1a6"
+  },
+  "notif_id": 49,
+  "employee_id": 49,
+  "message": "Notification message #49",
+  "created_at": "2024-06-06T17:25:00",
+  "is_read": false
+},
+{
+  "_id": {
+    "$oid": "68417b2d4dd58953d6efe1a7"
+  },
+  "notif_id": 50,
+  "employee_id": 50,
+  "message": "Notification message #50",
+  "created_at": "2024-06-06T09:22:00",
+  "is_read": false
+}]

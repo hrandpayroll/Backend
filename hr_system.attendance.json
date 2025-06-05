@@ -1,0 +1,700 @@
+[{
+  "_id": {
+    "$oid": "684172d5f7dbdd1cff37bb7d"
+  },
+  "attendance_id": 1,
+  "employee_id": 1,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:00",
+  "clock_out": "17:30",
+  "location": "Mumbai Office",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "684172d5f7dbdd1cff37bb7e"
+  },
+  "attendance_id": 2,
+  "employee_id": 2,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:10",
+  "clock_out": "17:20",
+  "location": "Bangalore Office",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "684172d5f7dbdd1cff37bb7f"
+  },
+  "attendance_id": 3,
+  "employee_id": 3,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "08:55",
+  "clock_out": "17:25",
+  "location": "Remote",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "684172d5f7dbdd1cff37bb80"
+  },
+  "attendance_id": 4,
+  "employee_id": 4,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:05",
+  "clock_out": "17:35",
+  "location": "Pune Office",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "684172d5f7dbdd1cff37bb81"
+  },
+  "attendance_id": 5,
+  "employee_id": 5,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:15",
+  "clock_out": "17:40",
+  "location": "Remote",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "684172d5f7dbdd1cff37bb82"
+  },
+  "attendance_id": 6,
+  "employee_id": 6,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:00",
+  "clock_out": "17:00",
+  "location": "Hyderabad Office",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "684172d5f7dbdd1cff37bb83"
+  },
+  "attendance_id": 7,
+  "employee_id": 7,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "08:50",
+  "clock_out": "17:15",
+  "location": "Chennai Office",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "684172d5f7dbdd1cff37bb84"
+  },
+  "attendance_id": 8,
+  "employee_id": 8,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:05",
+  "clock_out": "17:45",
+  "location": "Delhi Office",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "684172d5f7dbdd1cff37bb85"
+  },
+  "attendance_id": 9,
+  "employee_id": 9,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:20",
+  "clock_out": "17:30",
+  "location": "Remote",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "684172d5f7dbdd1cff37bb86"
+  },
+  "attendance_id": 10,
+  "employee_id": 10,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:10",
+  "clock_out": "17:25",
+  "location": "Mumbai Office",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "6841735df7dbdd1cff37bb87"
+  },
+  "attendance_id": 11,
+  "employee_id": 11,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:02",
+  "clock_out": "17:32",
+  "location": "Delhi Office",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "6841735df7dbdd1cff37bb88"
+  },
+  "attendance_id": 12,
+  "employee_id": 12,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "08:58",
+  "clock_out": "17:18",
+  "location": "Hyderabad Office",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "6841735df7dbdd1cff37bb89"
+  },
+  "attendance_id": 13,
+  "employee_id": 13,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:12",
+  "clock_out": "17:22",
+  "location": "Remote",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "6841735df7dbdd1cff37bb8a"
+  },
+  "attendance_id": 14,
+  "employee_id": 14,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:03",
+  "clock_out": "17:33",
+  "location": "Pune Office",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "6841735df7dbdd1cff37bb8b"
+  },
+  "attendance_id": 15,
+  "employee_id": 15,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "08:50",
+  "clock_out": "17:10",
+  "location": "Bangalore Office",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "6841735df7dbdd1cff37bb8c"
+  },
+  "attendance_id": 16,
+  "employee_id": 16,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:05",
+  "clock_out": "17:25",
+  "location": "Remote",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "6841735df7dbdd1cff37bb8d"
+  },
+  "attendance_id": 17,
+  "employee_id": 17,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:08",
+  "clock_out": "17:28",
+  "location": "Mumbai Office",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "6841735df7dbdd1cff37bb8e"
+  },
+  "attendance_id": 18,
+  "employee_id": 18,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:00",
+  "clock_out": "17:00",
+  "location": "Delhi Office",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "6841735df7dbdd1cff37bb8f"
+  },
+  "attendance_id": 19,
+  "employee_id": 19,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:06",
+  "clock_out": "17:36",
+  "location": "Hyderabad Office",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "6841735df7dbdd1cff37bb90"
+  },
+  "attendance_id": 20,
+  "employee_id": 20,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:04",
+  "clock_out": "17:24",
+  "location": "Remote",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "68417374f7dbdd1cff37bb91"
+  },
+  "attendance_id": 21,
+  "employee_id": 21,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:00",
+  "clock_out": "17:30",
+  "location": "Delhi Office",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "68417374f7dbdd1cff37bb92"
+  },
+  "attendance_id": 22,
+  "employee_id": 22,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "08:55",
+  "clock_out": "17:20",
+  "location": "Remote",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "68417374f7dbdd1cff37bb93"
+  },
+  "attendance_id": 23,
+  "employee_id": 23,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:10",
+  "clock_out": "17:25",
+  "location": "Chennai Office",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "68417374f7dbdd1cff37bb94"
+  },
+  "attendance_id": 24,
+  "employee_id": 24,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:15",
+  "clock_out": "17:45",
+  "location": "Pune Office",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "68417374f7dbdd1cff37bb95"
+  },
+  "attendance_id": 25,
+  "employee_id": 25,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:05",
+  "clock_out": "17:35",
+  "location": "Mumbai Office",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "68417374f7dbdd1cff37bb96"
+  },
+  "attendance_id": 26,
+  "employee_id": 26,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:00",
+  "clock_out": "17:10",
+  "location": "Hyderabad Office",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "68417374f7dbdd1cff37bb97"
+  },
+  "attendance_id": 27,
+  "employee_id": 27,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "08:58",
+  "clock_out": "17:08",
+  "location": "Remote",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "68417374f7dbdd1cff37bb98"
+  },
+  "attendance_id": 28,
+  "employee_id": 28,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:03",
+  "clock_out": "17:13",
+  "location": "Chennai Office",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "68417374f7dbdd1cff37bb99"
+  },
+  "attendance_id": 29,
+  "employee_id": 29,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:09",
+  "clock_out": "17:29",
+  "location": "Bangalore Office",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "68417374f7dbdd1cff37bb9a"
+  },
+  "attendance_id": 30,
+  "employee_id": 30,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:06",
+  "clock_out": "17:26",
+  "location": "Remote",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "68417382f7dbdd1cff37bb9b"
+  },
+  "attendance_id": 31,
+  "employee_id": 31,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:01",
+  "clock_out": "17:31",
+  "location": "Delhi Office",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "68417382f7dbdd1cff37bb9c"
+  },
+  "attendance_id": 32,
+  "employee_id": 32,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:05",
+  "clock_out": "17:15",
+  "location": "Remote",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "68417382f7dbdd1cff37bb9d"
+  },
+  "attendance_id": 33,
+  "employee_id": 33,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:07",
+  "clock_out": "17:17",
+  "location": "Pune Office",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "68417382f7dbdd1cff37bb9e"
+  },
+  "attendance_id": 34,
+  "employee_id": 34,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "08:59",
+  "clock_out": "17:19",
+  "location": "Bangalore Office",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "68417382f7dbdd1cff37bb9f"
+  },
+  "attendance_id": 35,
+  "employee_id": 35,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:13",
+  "clock_out": "17:43",
+  "location": "Remote",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "68417382f7dbdd1cff37bba0"
+  },
+  "attendance_id": 36,
+  "employee_id": 36,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:00",
+  "clock_out": "17:20",
+  "location": "Mumbai Office",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "68417382f7dbdd1cff37bba1"
+  },
+  "attendance_id": 37,
+  "employee_id": 37,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:04",
+  "clock_out": "17:34",
+  "location": "Chennai Office",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "68417382f7dbdd1cff37bba2"
+  },
+  "attendance_id": 38,
+  "employee_id": 38,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:12",
+  "clock_out": "17:42",
+  "location": "Remote",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "68417382f7dbdd1cff37bba3"
+  },
+  "attendance_id": 39,
+  "employee_id": 39,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:06",
+  "clock_out": "17:16",
+  "location": "Delhi Office",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "68417382f7dbdd1cff37bba4"
+  },
+  "attendance_id": 40,
+  "employee_id": 40,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "08:57",
+  "clock_out": "17:07",
+  "location": "Hyderabad Office",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "6841738df7dbdd1cff37bba5"
+  },
+  "attendance_id": 41,
+  "employee_id": 41,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:11",
+  "clock_out": "17:21",
+  "location": "Mumbai Office",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "6841738df7dbdd1cff37bba6"
+  },
+  "attendance_id": 42,
+  "employee_id": 42,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:14",
+  "clock_out": "17:44",
+  "location": "Remote",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "6841738df7dbdd1cff37bba7"
+  },
+  "attendance_id": 43,
+  "employee_id": 43,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "08:59",
+  "clock_out": "17:29",
+  "location": "Pune Office",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "6841738df7dbdd1cff37bba8"
+  },
+  "attendance_id": 44,
+  "employee_id": 44,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:05",
+  "clock_out": "17:35",
+  "location": "Delhi Office",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "6841738df7dbdd1cff37bba9"
+  },
+  "attendance_id": 45,
+  "employee_id": 45,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:00",
+  "clock_out": "17:30",
+  "location": "Hyderabad Office",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "6841738df7dbdd1cff37bbaa"
+  },
+  "attendance_id": 46,
+  "employee_id": 46,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:08",
+  "clock_out": "17:18",
+  "location": "Remote",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "6841738df7dbdd1cff37bbab"
+  },
+  "attendance_id": 47,
+  "employee_id": 47,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:02",
+  "clock_out": "17:32",
+  "location": "Chennai Office",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "6841738df7dbdd1cff37bbac"
+  },
+  "attendance_id": 48,
+  "employee_id": 48,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:10",
+  "clock_out": "17:25",
+  "location": "Bangalore Office",
+  "face_id_verified": false
+},
+{
+  "_id": {
+    "$oid": "6841738df7dbdd1cff37bbad"
+  },
+  "attendance_id": 49,
+  "employee_id": 49,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:07",
+  "clock_out": "17:37",
+  "location": "Remote",
+  "face_id_verified": true
+},
+{
+  "_id": {
+    "$oid": "6841738df7dbdd1cff37bbae"
+  },
+  "attendance_id": 50,
+  "employee_id": 50,
+  "date": {
+    "$date": "2025-06-05T00:00:00.000Z"
+  },
+  "clock_in": "09:03",
+  "clock_out": "17:13",
+  "location": "Delhi Office",
+  "face_id_verified": false
+}]
