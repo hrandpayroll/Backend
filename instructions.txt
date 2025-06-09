@@ -1,0 +1,40 @@
+How to Run Alpixn Backend Project
+
+Requirements:
+- Python 3.10+
+- PostgreSQL running locally with a schema matching DB_Schema.sql
+- A database with your desired name (e.g., hr_system)
+
+Setup Instructions:
+
+1. Clone this repo
+   git clone https://github.com/your_username/alpixn_core_backend.git
+   cd alpixn_core_backend
+
+2. Create and activate virtual environment
+   python -m venv venv
+   # On Windows:
+   venv\Scripts\activate
+
+3. Install dependencies
+   pip install -r requirements.txt
+
+4. Configure environment variables
+   - Copy .env.example → .env
+   - Update it with your PostgreSQL username, password, and DB name
+
+   Example .env:
+   DATABASE_URL=postgresql://postgres:your_password@localhost:5432/your_db_name
+
+5. Run the server
+   uvicorn app.main:app --reload
+
+6. Open Swagger UI
+   Visit: http://localhost:8000/docs
+
+✅ Available APIs:
+- GET /employee/         — List all employees
+- GET /employee/{id}     — View one employee
+- POST /employee/        — Create new employee
+- PUT /employee/{id}     — Update employee
+- DELETE /employee/{id}  — Delete employee
