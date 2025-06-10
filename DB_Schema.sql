@@ -172,3 +172,13 @@ CREATE TABLE login_audit (
   device_type VARCHAR(100),
   success BOOLEAN
 );
+
+-- Add ENUM type and apply it to employees table
+CREATE TYPE employee_status_enum AS ENUM ('Active', 'On Leave', 'Resigned');
+ALTER TABLE employees
+  ALTER COLUMN status TYPE employee_status_enum
+  USING status::employee_status_enum;
+
+ALTER TABLE employees
+ALTER COLUMN first_name SET NOT NULL,
+ALTER COLUMN last_name SET NOT NULL;
