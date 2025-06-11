@@ -2294,3 +2294,8 @@ INSERT INTO login_audit (audit_id, user_id, timestamp, ip_address, device_type, 
 INSERT INTO login_audit (audit_id, user_id, timestamp, ip_address, device_type, success) VALUES (48, 48, '2025-06-05 11:17:09.407', '192.168.1.48', 'Mobile', true);
 INSERT INTO login_audit (audit_id, user_id, timestamp, ip_address, device_type, success) VALUES (49, 49, '2025-06-05 11:17:09.407', '192.168.1.49', 'Desktop', true);
 INSERT INTO login_audit (audit_id, user_id, timestamp, ip_address, device_type, success) VALUES (50, 50, '2025-06-05 11:17:09.407', '192.168.1.50', 'Mobile', false);
+
+-- Step 1: Find the highest current employee_id
+SELECT MAX(employee_id) FROM employees;
+
+SELECT setval('employees_employee_id_seq', 51, false);
