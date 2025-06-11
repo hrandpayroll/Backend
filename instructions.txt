@@ -38,3 +38,4 @@ Setup Instructions:
 - POST /employee/        — Create new employee
 - PUT /employee/{id}     — Update employee
 - DELETE /employee/{id}  — Delete employee
+- PATCH /employee/{id}   — Update employee field
